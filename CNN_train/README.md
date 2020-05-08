@@ -1,11 +1,9 @@
 # Numpy-CNN
 A numpy-only implementation of a Convolutional Neural Network, from the ground up.
+This CNN doesn't perform as well as tensorflow, but it is constructed from scratch with Numpy.
 
-*Written by Alejandro Escontrela for [this article](https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1) on CNNs.*
+*Edited from codes Alejandro Escontrela for [this article](https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1) on CNNs.*
 
-## Purpose
-
-To gain a quality understanding of convolutional neural networks and what makes them peform so well, I constructed one from scratch with NumPy. This CNN is in no way intended to replace popular DL frameworks such as Tensorflow or Torch, *it is instead meant to serve as an instructional tool.*
 
 ## Training the network
 
